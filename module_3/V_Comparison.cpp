@@ -14,7 +14,7 @@ int main(){
  }else if(s=='<'){
     result=a<b;
  }else if(s=='='){
-    result =a=b;
+    result =a==b;
  }
  if(result){
  cout<< "Right";  
